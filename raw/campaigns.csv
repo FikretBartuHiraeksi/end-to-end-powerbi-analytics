@@ -1,0 +1,25 @@
+campaign_id,campaign_name,campaign_type,start_date,end_date,discount_pct,channel_scope,target_category
+CMP001,New Year Skin Reset 2024,Seasonal,2024-01-02,2024-01-15,18,Both,Skincare
+CMP002,Valentine's Gift Edit 2024,Holiday,2024-02-05,2024-02-14,17,Both,
+CMP003,Spring Refresh Sale 2024,Seasonal,2024-03-10,2024-03-24,15,Both,
+CMP004,Mother's Day Beauty Gifts 2024,Holiday,2024-05-01,2024-05-12,18,Both,
+CMP005,Summer Skin Essentials 2024,Seasonal,2024-06-01,2024-06-15,18,Both,Skincare
+CMP006,Mid-Year Clearance 2024,Clearance,2024-07-08,2024-07-22,37,Both,
+CMP007,Back-to-Beauty Event 2024,Seasonal,2024-08-15,2024-08-28,15,Both,Makeup
+CMP008,Fall Skincare Refresh 2024,Seasonal,2024-09-20,2024-09-30,20,Both,Skincare
+CMP009,Halloween Glam Event 2024,Holiday,2024-10-20,2024-10-31,22,Both,Makeup
+CMP010,Black Friday Beauty Blowout 2024,Holiday,2024-11-24,2024-11-30,38,Both,
+CMP011,12 Days of Beauty 2024,Holiday,2024-12-01,2024-12-24,23,Both,
+CMP012,Year-End Clearance 2024,Clearance,2024-12-26,2024-12-31,30,Both,
+CMP013,New Year Skin Reset 2025,Seasonal,2025-01-02,2025-01-15,18,Both,Skincare
+CMP014,Valentine's Gift Edit 2025,Holiday,2025-02-05,2025-02-14,20,Both,
+CMP015,Spring Refresh Sale 2025,Seasonal,2025-03-10,2025-03-24,12,Both,
+CMP016,Mother's Day Beauty Gifts 2025,Holiday,2025-05-01,2025-05-12,23,Both,
+CMP017,Summer Skin Essentials 2025,Seasonal,2025-06-01,2025-06-15,12,Both,Skincare
+CMP018,Mid-Year Clearance 2025,Clearance,2025-07-08,2025-07-22,38,Both,
+CMP019,Back-to-Beauty Event 2025,Seasonal,2025-08-15,2025-08-28,16,Both,Makeup
+CMP020,Fall Skincare Refresh 2025,Seasonal,2025-09-20,2025-09-30,17,Both,Skincare
+CMP021,Halloween Glam Event 2025,Holiday,2025-10-20,2025-10-31,19,Both,Makeup
+CMP022,Black Friday Beauty Blowout 2025,Holiday,2025-11-24,2025-11-30,37,Both,
+CMP023,12 Days of Beauty 2025,Holiday,2025-12-01,2025-12-24,26,Both,
+CMP024,Year-End Clearance 2025,Clearance,2025-12-26,2025-12-31,29,Both,

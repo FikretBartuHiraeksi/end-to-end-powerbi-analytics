@@ -1,0 +1,29 @@
+store_id,store_name,city,state,region,store_type,open_date
+ST001,Vaeolara Beauty - Los Angeles Mall,Los Angeles,California,West,Mall,2023-02-03
+ST002,Vaeolara Beauty - Los Angeles Mall II,Los Angeles,California,West,Mall,2021-03-18
+ST003,Vaeolara Beauty - San Francisco Outlet,San Francisco,California,West,Outlet,2020-11-12
+ST004,Vaeolara Beauty - Austin Mall,Austin,Texas,South,Mall,2025-07-30
+ST005,Vaeolara Beauty - Austin Mall II,Austin,Texas,South,Mall,2025-11-06
+ST006,Vaeolara Beauty - Austin Outlet,Austin,Texas,South,Outlet,2022-02-09
+ST007,Vaeolara Beauty - Houston Flagship,Houston,Texas,South,Flagship,2021-04-21
+ST008,Vaeolara Beauty - Houston Mall,Houston,Texas,South,Mall,2023-09-19
+ST009,Vaeolara Beauty - San Antonio Outlet,San Antonio,Texas,South,Outlet,2019-12-26
+ST010,Vaeolara Beauty - Miami Mall,Miami,Florida,South,Mall,2020-09-02
+ST011,Vaeolara Beauty - Miami Mall II,Miami,Florida,South,Mall,2019-04-25
+ST012,Vaeolara Beauty - Miami Outlet,Miami,Florida,South,Outlet,2020-05-14
+ST013,Vaeolara Beauty - New York City Outlet,New York City,New York,Northeast,Outlet,2025-04-01
+ST014,Vaeolara Beauty - New York City Flagship,New York City,New York,Northeast,Flagship,2021-08-11
+ST015,Vaeolara Beauty - Atlanta Mall,Atlanta,Georgia,South,Mall,2021-10-19
+ST016,Vaeolara Beauty - Atlanta Mall II,Atlanta,Georgia,South,Mall,2023-01-31
+ST017,Vaeolara Beauty - Savannah Outlet,Savannah,Georgia,South,Outlet,2025-11-17
+ST018,Vaeolara Beauty - Charlotte Outlet,Charlotte,North Carolina,South,Outlet,2023-11-21
+ST019,Vaeolara Beauty - Ann Arbor Outlet,Ann Arbor,Michigan,Midwest,Outlet,2019-08-04
+ST020,Vaeolara Beauty - Ann Arbor Outlet II,Ann Arbor,Michigan,Midwest,Outlet,2025-05-18
+ST021,Vaeolara Beauty - Richmond Mall,Richmond,Virginia,South,Mall,2020-03-20
+ST022,Vaeolara Beauty - Richmond Mall II,Richmond,Virginia,South,Mall,2025-05-05
+ST023,Vaeolara Beauty - Virginia Beach Mall,Virginia Beach,Virginia,South,Mall,2020-02-18
+ST024,Vaeolara Beauty - Spokane Outlet,Spokane,Washington,West,Outlet,2023-03-18
+ST025,Vaeolara Beauty - Spokane Outlet II,Spokane,Washington,West,Outlet,2020-08-02
+ST026,Vaeolara Beauty - Nashville Outlet,Nashville,Tennessee,South,Outlet,2020-10-24
+ST027,Vaeolara Beauty - Indianapolis Mall,Indianapolis,Indiana,Midwest,Mall,2025-03-07
+ST028,Vaeolara Beauty - Kansas City Flagship,Kansas City,Missouri,Midwest,Flagship,2022-01-19

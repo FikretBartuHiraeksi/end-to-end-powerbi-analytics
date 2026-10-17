@@ -1,0 +1,216 @@
+product_id,product_name,brand,category,subcategory,unit_cost,unit_price,launch_date,is_active
+P0001,Radiant Face Wash,Cedar & Rain,Skincare,Cleansers,15.45,35.42,2022-12-24,True
+P0002,Oat Milk Booster,Cedar & Rain,Skincare,Serums,31.15,93.16,2023-09-08,True
+P0003,Overnight Serum,Cedar & Rain,Skincare,Serums,24.22,55.12,2020-09-06,True
+P0004,Vitamin C Sunscreen SPF 30,Cedar & Rain,Skincare,Sunscreen,22.67,53.9,2023-03-28,True
+P0005,Nourishing Face Wash,Cedar & Rain,Skincare,Cleansers,15.25,36.21,2020-04-27,True
+P0006,Barrier Overnight Mask,Cedar & Rain,Skincare,Masks,4.39,13.14,2022-04-01,True
+P0007,Everyday Serum,Cedar & Rain,Skincare,Serums,30.07,99.89,2021-11-26,True
+P0008,Golden Hour Cleanser,Cedar & Rain,Skincare,Cleansers,8.93,28.09,2022-08-13,True
+P0009,Pure Day Cream,Cedar & Rain,Skincare,Moisturizers,19.75,52.27,2021-02-11,True
+P0010,Vitamin C Moisturizer,Cedar & Rain,Skincare,Moisturizers,38.44,86.51,2022-12-20,True
+P0011,Sea Mineral Booster,Cedar & Rain,Skincare,Serums,21.96,64.06,2023-11-07,True
+P0012,Ceramide Serum,Cedar & Rain,Skincare,Serums,23.69,76.97,2022-11-10,True
+P0013,Golden Hour Serum,Cedar & Rain,Skincare,Serums,19.35,60.13,2021-12-28,True
+P0014,Oat Milk Serum,Cedar & Rain,Skincare,Serums,24.17,60.29,2020-11-15,True
+P0015,Overnight Night Cream,Northbloom,Skincare,Moisturizers,16.35,46.03,2021-05-28,True
+P0016,Retinol Moisturizer,Northbloom,Skincare,Moisturizers,12.44,39.68,2020-07-28,True
+P0017,Sea Mineral Sunscreen SPF 50,Northbloom,Skincare,Sunscreen,6.54,21.36,2021-07-29,True
+P0018,Luminous Overnight Mask,Northbloom,Skincare,Masks,2.71,7.18,2023-01-27,True
+P0019,Nourishing Clay Mask,Northbloom,Skincare,Masks,3.6,8.92,2022-05-31,True
+P0020,Nourishing Cleanser,Northbloom,Skincare,Cleansers,5.69,16.2,2023-07-15,True
+P0021,Vitamin C Face Wash,Northbloom,Skincare,Cleansers,9.5,28.04,2021-04-17,True
+P0022,Matte Serum,Northbloom,Skincare,Serums,19.05,50.21,2023-01-04,True
+P0023,Matte Eye Gel,Northbloom,Skincare,Eye Care,21.37,49.12,2021-05-27,True
+P0024,Vitamin C Clay Mask,Northbloom,Skincare,Masks,4.43,10.84,2020-04-26,True
+P0025,Silk Clay Mask,Northbloom,Skincare,Masks,6.17,15.58,2023-08-28,True
+P0026,Luminous Serum,Northbloom,Skincare,Serums,25.0,63.94,2023-12-19,True
+P0027,Green Tea Overnight Mask,Northbloom,Skincare,Unknown,4.3,14.3,2023-05-05,True
+P0028,Shea Butter Booster,Northbloom,Skincare,Unknown,22.15,55.68,2023-01-30,True
+P0029,Luminous Sunscreen SPF 50,Northbloom,Skincare,Sunscreen,7.77,22.27,2020-12-08,True
+P0030,Hyaluronic Night Cream,Northbloom,Skincare,Moisturizers,19.94,50.02,2021-09-01,True
+P0031,Barrier Cleanser,Northbloom,Skincare,Cleansers,6.75,19.88,2023-01-01,True
+P0032,Sea Mineral Cleanser,Northbloom,Skincare,Cleansers,8.8,20.29,2021-05-30,True
+P0033,Niacinamide Night Cream,Northbloom,Skincare,Moisturizers,14.92,38.59,2021-12-24,True
+P0034,Vitamin C Face Wash,Hydralux,Skincare,Cleansers,7.0,20.45,2023-11-26,True
+P0035,Aloe Eye Gel,Hydralux,Skincare,Eye Care,10.22,23.17,2020-02-01,True
+P0036,Golden Hour Serum,Hydralux,Skincare,Serums,10.35,34.25,2020-03-10,True
+P0037,Golden Hour Sheet Mask,Hydralux,Skincare,Masks,6.27,14.11,2020-07-01,True
+P0038,Weightless Eye Gel,Hydralux,Skincare,Eye Care,11.9,27.83,2022-09-13,True
+P0039,Radiant Clay Mask,Hydralux,Skincare,Masks,4.62,10.5,2021-02-21,True
+P0040,Bloom Booster,Hydralux,Skincare,Serums,10.01,25.51,2019-12-08,True
+P0041,Overnight Sunscreen SPF 30,Hydralux,Skincare,Sunscreen,9.43,21.86,2020-12-16,True
+P0042,Aloe Clay Mask,Hydralux,Skincare,Masks,4.17,11.78,2022-10-18,True
+P0043,Radiant Night Cream,Hydralux,Skincare,Moisturizers,16.77,38.99,2020-04-02,True
+P0044,Nourishing Clay Mask,Hydralux,Skincare,Masks,4.2,10.01,2021-05-02,True
+P0045,Oat Milk Overnight Mask,Hydralux,Skincare,Masks,5.46,12.6,2022-08-13,True
+P0046,Ceramide Moisturizer,Hydralux,Skincare,Moisturizers,7.77,20.08,2023-11-09,True
+P0047,Weightless Night Cream,Hydralux,Skincare,Moisturizers,10.95,31.93,2021-07-29,False
+P0048,Oat Milk Eye Cream,Hydralux,Skincare,Eye Care,8.48,20.04,2022-07-10,True
+P0049,Hydra Booster,Hydralux,Skincare,Serums,16.25,39.11,2023-02-12,True
+P0050,Nourishing Face Wash,Hydralux,Skincare,Cleansers,3.78,12.29,2021-10-26,True
+P0051,Velvet Serum,Hydralux,Skincare,Serums,17.5,42.8,2019-12-30,True
+P0052,Overnight Foundation - Dusty Rose,Velvet Noir,Makeup,Face,20.87,49.77,2022-11-21,True
+P0053,Golden Hour Eyeshadow Palette - Blush Petal,Velvet Noir,Makeup,Eyes,8.46,27.86,2020-01-19,True
+P0054,Aloe Mascara,Velvet Noir,Makeup,Eyes,16.49,45.64,2023-04-17,True
+P0055,Green Tea Blush,Velvet Noir,Makeup,Cheeks,13.16,34.41,2021-01-25,True
+P0056,Charcoal Eyeliner - Mauve Silk,Velvet Noir,Makeup,Eyes,14.92,33.66,2020-12-21,True
+P0057,Aloe Lip Gloss - Nude Bloom,Velvet Noir,Makeup,Lips,13.1,36.1,2022-12-26,True
+P0058,Rose Quartz Eyeshadow Palette - Blush Petal,Velvet Noir,Makeup,Eyes,14.33,47.43,2023-07-11,False
+P0059,Luminous Eyeliner - Rosewood,Velvet Noir,Makeup,Eyes,11.47,26.77,2021-02-10,True
+P0060,Pure Foundation,Velvet Noir,Makeup,Face,15.64,41.84,2022-01-21,True
+P0061,Aloe Lipstick - Mauve Silk,Velvet Noir,Makeup,Lips,11.56,32.12,2021-06-22,True
+P0062,Green Tea Blush - Copper Glow,Velvet Noir,Makeup,Unknown,10.62,29.81,2021-06-07,True
+P0063,Clarifying Blush - Sandstone,Velvet Noir,Makeup,Cheeks,19.14,47.99,2023-05-02,False
+P0064,Radiant Eyeshadow Palette - Berry Wine,Velvet Noir,Makeup,Eyes,13.41,44.1,2021-08-06,True
+P0065,Retinol Bronzer,Velvet Noir,Makeup,Cheeks,14.93,41.69,2021-05-12,True
+P0066,Sea Mineral Setting Powder,Velvet Noir,Makeup,Face,25.42,57.61,2022-06-01,True
+P0067,Overnight Concealer - Dusty Rose,Chroma Beauty,Makeup,Face,14.47,43.92,2023-09-19,True
+P0068,Matte Eyeshadow Palette - Toffee,Chroma Beauty,Makeup,Eyes,5.13,16.33,2021-03-13,False
+P0069,Botanical Blush - Dusty Rose,Chroma Beauty,Makeup,Cheeks,9.59,22.47,2023-11-28,True
+P0070,Radiant Highlighter - Blush Petal,Chroma Beauty,Makeup,Cheeks,6.97,21.95,2021-02-20,True
+P0071,Weightless Foundation,Chroma Beauty,Makeup,Face,17.76,43.3,2020-09-13,True
+P0072,Hyaluronic Mascara - Sandstone,Chroma Beauty,Makeup,Eyes,7.92,19.19,2020-09-08,True
+P0073,Vitamin C Foundation - Sandstone,Chroma Beauty,Makeup,Face,11.77,33.08,2020-10-24,True
+P0074,Charcoal Lip Gloss - Rosewood,Chroma Beauty,Makeup,Unknown,11.59,27.03,2022-03-29,True
+P0075,Matte Blush - Crimson Hour,Chroma Beauty,Makeup,Cheeks,9.01,28.56,2020-04-18,True
+P0076,Rose Quartz Setting Powder - Copper Glow,Chroma Beauty,Makeup,Face,14.68,42.18,2020-04-28,True
+P0077,Barrier Highlighter - Crimson Hour,Chroma Beauty,Makeup,Cheeks,7.91,18.15,2023-08-18,True
+P0078,Pure Foundation - Mauve Silk,Chroma Beauty,Makeup,Face,19.87,44.9,2021-08-24,True
+P0079,Radiant Mascara,Chroma Beauty,Makeup,Eyes,8.28,24.07,2022-08-27,True
+P0080,Oat Milk Eyeliner - Dusty Rose,Chroma Beauty,Makeup,Eyes,12.37,29.54,2020-10-04,True
+P0081,Matte Lip Gloss - Berry Wine,Bare Canvas,Makeup,Lips,5.17,16.74,2021-09-29,True
+P0082,Vitamin C Mascara - Mauve Silk,Bare Canvas,Makeup,Eyes,9.02,25.58,2023-07-10,True
+P0083,Rose Quartz Lip Gloss,Bare Canvas,Makeup,Lips,7.75,19.73,2023-08-03,True
+P0084,Retinol Foundation - Copper Glow,Bare Canvas,Makeup,Face,9.81,31.54,2020-08-17,True
+P0085,Green Tea Foundation - Terracotta,Bare Canvas,Makeup,Face,6.45,20.63,2019-12-14,True
+P0086,Pure Mascara,Bare Canvas,Makeup,Eyes,7.65,18.14,2020-02-11,True
+P0087,Bloom Lip Gloss - Blush Petal,Bare Canvas,Makeup,Lips,7.0,19.64,2023-08-29,True
+P0088,Clarifying Lip Liner - Crimson Hour,Bare Canvas,Makeup,Lips,6.35,17.45,2020-04-12,True
+P0089,Radiant Lip Liner,Bare Canvas,Makeup,Lips,5.04,16.72,2022-01-29,False
+P0090,Radiant Mascara,Bare Canvas,Makeup,Eyes,4.61,14.51,2021-05-03,True
+P0091,Charcoal Mascara - Rosewood,Bare Canvas,Makeup,Eyes,9.42,21.2,2022-06-18,True
+P0092,Golden Hour Lipstick - Terracotta,Bare Canvas,Makeup,Lips,6.98,20.93,2020-01-18,False
+P0093,Barrier Bronzer - Mauve Silk,Bare Canvas,Makeup,Cheeks,7.74,25.26,2020-05-05,True
+P0094,Velvet Bronzer - Toffee,Bare Canvas,Makeup,Cheeks,7.94,25.52,2021-09-23,True
+P0095,Overnight Lipstick - Rosewood,Bare Canvas,Makeup,Lips,6.73,17.06,2021-02-22,True
+P0096,Hydra Highlighter - Rosewood,Bare Canvas,Makeup,Cheeks,8.31,21.43,2020-04-20,False
+P0097,Velvet Eyeliner,Bare Canvas,Makeup,Eyes,7.46,16.85,2020-05-06,True
+P0098,Silk Conditioner,Silk Current,Haircare,Conditioner,8.43,24.68,2023-03-25,True
+P0099,Ceramide Shampoo,Silk Current,Haircare,Shampoo,8.12,20.95,2023-09-07,True
+P0100,Matte Shampoo,Silk Current,Haircare,Shampoo,12.06,29.81,2021-10-19,True
+P0101,Ceramide Conditioner,Silk Current,Haircare,Conditioner,11.03,27.39,2023-05-03,True
+P0102,Luminous Hair Mask,Silk Current,Haircare,Treatments,15.4,34.81,2021-01-08,True
+P0103,Niacinamide Conditioner,Silk Current,Haircare,Conditioner,9.62,21.86,2020-06-11,False
+P0104,Overnight Shampoo,Silk Current,Haircare,Shampoo,5.84,16.37,2020-09-03,True
+P0105,Clarifying Texturizing Spray,Silk Current,Haircare,Styling,7.83,20.11,2022-06-09,True
+P0106,Bloom Conditioner,Silk Current,Haircare,Conditioner,11.83,27.79,2022-01-28,True
+P0107,Barrier Shampoo,Silk Current,Haircare,Shampoo,6.12,19.83,2020-06-13,True
+P0108,Luminous Shampoo,Silk Current,Haircare,Shampoo,13.48,30.0,2021-09-20,True
+P0109,Luminous Styling Cream,Silk Current,Haircare,Styling,13.35,31.23,2022-12-26,True
+P0110,Vitamin C Shampoo,Silk Current,Haircare,Shampoo,7.89,17.81,2021-07-06,True
+P0111,Barrier Texturizing Spray,Silk Current,Haircare,Styling,10.76,27.4,2022-07-13,True
+P0112,Hydra Scalp Treatment,Silk Current,Haircare,Treatments,12.13,32.09,2020-10-30,True
+P0113,Bloom Shampoo,Silk Current,Haircare,Shampoo,10.69,27.93,2021-09-12,True
+P0114,Radiant Styling Cream,Rootwell,Haircare,Styling,6.06,18.92,2023-11-19,True
+P0115,Overnight Scalp Treatment,Rootwell,Haircare,Treatments,10.11,24.93,2023-02-16,True
+P0116,Oat Milk Texturizing Spray,Rootwell,Haircare,Styling,5.13,14.56,2021-07-31,True
+P0117,Shea Butter Shampoo,Rootwell,Haircare,Shampoo,7.71,17.7,2022-07-28,True
+P0118,Velvet Conditioner,Rootwell,Haircare,Conditioner,7.76,21.58,2021-06-12,True
+P0119,Aloe Hair Mask,Rootwell,Haircare,Unknown,9.56,29.67,2020-03-13,True
+P0120,Niacinamide Conditioner,Rootwell,Haircare,Conditioner,5.79,15.69,2019-12-23,True
+P0121,Oat Milk Shampoo,Rootwell,Haircare,Shampoo,6.51,16.48,2023-01-06,False
+P0122,Barrier Hair Oil,Rootwell,Haircare,Styling,5.06,15.84,2023-05-19,True
+P0123,Aloe Shampoo,Rootwell,Haircare,Shampoo,6.54,19.98,2022-08-01,True
+P0124,Niacinamide Hair Oil,Rootwell,Haircare,Styling,7.89,19.71,2023-04-18,True
+P0125,Everyday Texturizing Spray,Rootwell,Haircare,Styling,4.83,14.86,2022-11-10,True
+P0126,Silk Hair Oil,Rootwell,Haircare,Styling,4.9,15.39,2022-02-09,True
+P0127,Golden Hour Conditioner,Rootwell,Haircare,Conditioner,6.34,16.88,2021-03-02,False
+P0128,Oat Milk Hair Mask,Rootwell,Haircare,Treatments,10.84,27.51,2023-09-01,True
+P0129,Green Tea Texturizing Spray,Rootwell,Haircare,Styling,7.64,24.71,2022-11-12,True
+P0130,Charcoal Shampoo,Rootwell,Haircare,Shampoo,6.94,21.18,2023-02-21,True
+P0131,Clarifying Conditioner,Rootwell,Haircare,Conditioner,7.16,18.23,2022-06-27,True
+P0132,Retinol Eau de Toilette,Amber & Oak,Fragrance,Men's Fragrance,46.61,152.57,2022-12-19,True
+P0133,Aloe Cologne,Amber & Oak,Fragrance,Men's Fragrance,62.65,166.28,2021-10-25,True
+P0134,Golden Hour Cologne,Amber & Oak,Fragrance,Men's Fragrance,47.38,124.72,2023-01-03,True
+P0135,Aloe Eau de Toilette,Amber & Oak,Fragrance,Women's Fragrance,40.37,133.24,2022-09-05,True
+P0136,Nourishing Cologne,Amber & Oak,Fragrance,Men's Fragrance,36.12,113.59,2020-05-06,True
+P0137,Luminous Eau de Toilette,Amber & Oak,Fragrance,Women's Fragrance,69.28,165.6,2021-12-15,True
+P0138,Hydra Eau de Parfum,Amber & Oak,Fragrance,Women's Fragrance,58.35,150.38,2020-12-09,True
+P0139,Hyaluronic Eau de Parfum,Amber & Oak,Fragrance,Women's Fragrance,36.48,106.48,2022-07-06,True
+P0140,Niacinamide Eau de Toilette,Amber & Oak,Fragrance,Women's Fragrance,54.42,153.99,2019-12-14,True
+P0141,Hyaluronic Eau de Toilette,Amber & Oak,Fragrance,Women's Fragrance,37.27,118.23,2023-05-17,True
+P0142,Silk Cologne,Amber & Oak,Fragrance,Men's Fragrance,32.18,98.11,2022-10-31,True
+P0143,Weightless Eau de Parfum,Amber & Oak,Fragrance,Women's Fragrance,58.95,188.93,2021-11-06,True
+P0144,Bloom Cologne,Amber & Oak,Fragrance,Men's Fragrance,55.24,174.36,2022-05-15,True
+P0145,Green Tea Cologne,Amber & Oak,Fragrance,Men's Fragrance,69.1,163.52,2022-12-11,True
+P0146,Retinol Eau de Parfum,Amber & Oak,Fragrance,Women's Fragrance,72.27,164.48,2021-09-18,True
+P0147,Golden Hour Eau de Toilette,Amber & Oak,Fragrance,Women's Fragrance,51.02,122.81,2023-03-27,True
+P0148,Oat Milk Eau de Toilette,Amber & Oak,Fragrance,Men's Fragrance,46.15,122.68,2023-01-03,True
+P0149,Bloom Eau de Toilette,Amber & Oak,Fragrance,Men's Fragrance,48.02,139.87,2021-08-13,True
+P0150,Botanical Eau de Toilette,Noted Perfumery,Fragrance,Men's Fragrance,30.36,79.91,2023-10-16,True
+P0151,Weightless Eau de Toilette,Noted Perfumery,Fragrance,Women's Fragrance,20.74,67.01,2019-12-09,True
+P0152,Botanical Cologne,Noted Perfumery,Fragrance,Men's Fragrance,33.47,98.97,2021-03-15,True
+P0153,Everyday Cologne,Noted Perfumery,Fragrance,Men's Fragrance,32.09,86.55,2022-04-24,True
+P0154,Green Tea Eau de Toilette,Noted Perfumery,Fragrance,Men's Fragrance,44.97,105.91,2020-01-15,True
+P0155,Silk Eau de Parfum,Noted Perfumery,Fragrance,Women's Fragrance,47.15,106.97,2023-04-05,False
+P0156,Everyday Eau de Toilette,Noted Perfumery,Fragrance,Women's Fragrance,41.58,107.66,2020-07-18,True
+P0157,Pure Eau de Parfum,Noted Perfumery,Fragrance,Women's Fragrance,36.75,111.28,2023-05-01,True
+P0158,Rose Quartz Eau de Toilette,Noted Perfumery,Fragrance,Men's Fragrance,39.68,99.25,2021-11-08,True
+P0159,Velvet Eau de Toilette,Noted Perfumery,Fragrance,Men's Fragrance,36.92,102.88,2020-08-25,True
+P0160,Vitamin C Eau de Toilette,Noted Perfumery,Fragrance,Women's Fragrance,30.76,83.26,2022-10-06,True
+P0161,Hyaluronic Eau de Toilette,Noted Perfumery,Fragrance,Women's Fragrance,30.7,91.68,2020-04-22,True
+P0162,Charcoal Eau de Toilette,Noted Perfumery,Fragrance,Women's Fragrance,41.16,94.42,2021-06-09,True
+P0163,Luminous Eau de Toilette,Noted Perfumery,Fragrance,Women's Fragrance,47.68,120.97,2022-08-17,True
+P0164,Nourishing Cologne,Noted Perfumery,Fragrance,Men's Fragrance,38.53,98.05,2021-10-23,True
+P0165,Vitamin C Body Wash,Meadow Bath Co.,Bath & Body,Body Wash,6.42,19.89,2022-09-21,True
+P0166,Pure Hand Cream,Meadow Bath Co.,Bath & Body,Hand Care,4.33,14.21,2021-08-30,True
+P0167,Silk Hand Cream,Meadow Bath Co.,Bath & Body,Hand Care,5.32,15.14,2020-08-18,True
+P0168,Velvet Body Lotion,Meadow Bath Co.,Bath & Body,Body Lotion,8.89,27.85,2022-05-16,True
+P0169,Rose Quartz Body Butter,Meadow Bath Co.,Bath & Body,Body Lotion,6.05,18.1,2021-01-13,True
+P0170,Rose Quartz Body Wash,Meadow Bath Co.,Bath & Body,Body Wash,7.44,18.41,2021-10-09,True
+P0171,Botanical Body Butter,Meadow Bath Co.,Bath & Body,Body Lotion,6.82,20.84,2020-04-09,True
+P0172,Nourishing Body Butter,Meadow Bath Co.,Bath & Body,Body Lotion,7.98,21.61,2020-02-11,True
+P0173,Hydra Body Wash,Meadow Bath Co.,Bath & Body,Body Wash,6.71,17.86,2021-06-28,False
+P0174,Ceramide Hand Cream,Meadow Bath Co.,Bath & Body,Hand Care,6.64,15.1,2021-09-06,True
+P0175,Weightless Body Wash,Meadow Bath Co.,Bath & Body,Body Wash,8.62,21.22,2023-05-18,True
+P0176,Weightless Hand Cream,Meadow Bath Co.,Bath & Body,Hand Care,4.82,13.25,2020-12-23,True
+P0177,Matte Body Wash,Meadow Bath Co.,Bath & Body,Body Wash,7.82,21.26,2023-07-16,True
+P0178,Luminous Body Wash,Meadow Bath Co.,Bath & Body,Body Wash,6.5,20.39,2020-03-21,True
+P0179,Golden Hour Body Wash,Meadow Bath Co.,Bath & Body,Body Wash,6.68,17.19,2022-05-13,False
+P0180,Retinol Body Wash,Meadow Bath Co.,Bath & Body,Body Wash,6.45,15.35,2023-12-26,True
+P0181,Weightless Shaving Cream,Fieldstone,Men's Grooming,Shaving,7.15,18.78,2020-03-23,True
+P0182,Radiant Aftershave Balm,Fieldstone,Men's Grooming,Shaving,7.46,18.16,2022-02-22,True
+P0183,Charcoal Face Wash,Fieldstone,Men's Grooming,Grooming Skincare,8.11,25.24,2023-04-12,True
+P0184,Vitamin C Moisturizer,Fieldstone,Men's Grooming,Grooming Skincare,10.8,24.7,2022-07-07,True
+P0185,Pure Face Wash,Fieldstone,Men's Grooming,Grooming Skincare,8.49,28.12,2021-04-11,True
+P0186,Radiant Face Wash,Fieldstone,Men's Grooming,Grooming Skincare,10.76,33.38,2022-04-20,True
+P0187,Barrier Moisturizer,Fieldstone,Men's Grooming,Grooming Skincare,12.74,33.95,2021-07-22,False
+P0188,Clarifying Face Wash,Fieldstone,Men's Grooming,Grooming Skincare,9.94,30.0,2020-04-24,True
+P0189,Ceramide Face Wash,Fieldstone,Men's Grooming,Grooming Skincare,6.43,21.05,2022-01-23,True
+P0190,Golden Hour Moisturizer,Fieldstone,Men's Grooming,Grooming Skincare,7.93,19.05,2022-02-21,True
+P0191,Aloe Beard Oil,Fieldstone,Men's Grooming,Beard Care,7.67,21.29,2021-09-14,True
+P0192,Hydra Moisturizer,Fieldstone,Men's Grooming,Grooming Skincare,8.98,20.91,2020-02-12,True
+P0193,Radiant Beard Balm,Fieldstone,Men's Grooming,Beard Care,7.63,19.25,2022-04-28,False
+P0194,Sea Mineral Beard Balm,Fieldstone,Men's Grooming,Beard Care,7.28,17.87,2021-04-18,False
+P0195,Niacinamide Beard Oil,Fieldstone,Men's Grooming,Beard Care,6.24,18.66,2021-03-30,False
+P0196,Oat Milk Aftershave Balm,Fieldstone,Men's Grooming,Shaving,6.4,15.25,2023-04-09,True
+P0197,Retinol Moisturizer,Anchor & Co.,Men's Grooming,Grooming Skincare,5.5,17.45,2023-01-02,True
+P0198,Rose Quartz Beard Balm,Anchor & Co.,Men's Grooming,Beard Care,8.92,21.01,2022-05-16,True
+P0199,Botanical Shaving Cream,Anchor & Co.,Men's Grooming,Shaving,4.53,13.17,2020-04-27,False
+P0200,Weightless Beard Oil,Anchor & Co.,Men's Grooming,Beard Care,4.51,13.62,2023-11-23,True
+P0201,Barrier Aftershave Balm,Anchor & Co.,Men's Grooming,Unknown,6.1,16.8,2020-05-02,True
+P0202,Hyaluronic Beard Oil,Anchor & Co.,Men's Grooming,Beard Care,5.45,16.08,2022-06-11,True
+P0203,Clarifying Aftershave Balm,Anchor & Co.,Men's Grooming,Shaving,5.42,13.77,2022-04-27,True
+P0204,Botanical Beard Balm,Anchor & Co.,Men's Grooming,Beard Care,5.85,16.99,2020-02-09,True
+P0205,Green Tea Moisturizer,Anchor & Co.,Men's Grooming,Grooming Skincare,6.97,16.19,2021-12-31,True
+P0206,Pure Shaving Cream,Anchor & Co.,Men's Grooming,Shaving,6.87,18.88,2023-11-29,True
+P0207,Hyaluronic Aftershave Balm,Anchor & Co.,Men's Grooming,Shaving,6.48,16.4,2022-12-11,True
+P0208,Everyday Face Wash,Anchor & Co.,Men's Grooming,Grooming Skincare,11.23,25.09,2021-11-04,True
+P0209,Retinol Beard Balm,Anchor & Co.,Men's Grooming,Beard Care,4.67,15.41,2020-03-31,True
+P0210,Charcoal Shaving Cream,Anchor & Co.,Men's Grooming,Shaving,5.71,16.73,2021-09-22,True
+P0211,Everyday Aftershave Balm,Anchor & Co.,Men's Grooming,Shaving,6.34,19.17,2023-12-16,True
+P0212,Golden Hour Aftershave Balm,Anchor & Co.,Men's Grooming,Shaving,8.55,19.84,2021-07-19,True
+P0213,Hyaluronic Moisturizer,Anchor & Co.,Men's Grooming,Grooming Skincare,7.48,22.91,2020-03-31,True
+P0214,Niacinamide Moisturizer,Anchor & Co.,Men's Grooming,Grooming Skincare,7.29,19.3,2023-10-23,True
+P0215,Ceramide Moisturizer,Anchor & Co.,Men's Grooming,Grooming Skincare,7.45,23.85,2021-07-11,True
