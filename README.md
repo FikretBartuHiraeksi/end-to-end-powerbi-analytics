@@ -6,7 +6,7 @@ An end-to-end analytics project on a fictional cosmetics retailer (Vaeolara Beau
 
 Retail data rarely arrives ready for analysis. This project follows the whole path from messy source files to a decision-ready dashboard: finding and fixing data problems, designing a dimensional model, writing analytical queries, and building an interactive report. The business questions are about revenue, store performance, product profitability, campaigns, customer value and the online vs in-store split.
 
-The full write-up with all charts and query results is in 📄 [Full Project Report (PDF)](report/powerbi.pdf). The cleaning code is in 📓 [Jupyter Notebook](Clean.ipynb). The model and queries are in 🗄️ [sql/](sql/), and the dashboard is in 📊 [powerbi/](powerbi/).
+The full write-up with all charts and query results is in 📄 [Full Project Report (PDF)](Vaeolara%20Beauty%20Project%20Explanation.pdf). The cleaning code is in 📓 [Jupyter Notebook](clean/cleaning.ipynb). The model and queries are in 🗄️ [sql/](sql/), and the dashboard is in 📊 [powerbi/](report/Vaeolara%20Beauty.pbix).
 
 ## Data
 
