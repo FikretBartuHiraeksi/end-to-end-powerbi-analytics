@@ -97,7 +97,7 @@ The `.pbix` file contains a saved snapshot of the data, so it opens without a da
 │   ├── Vaeolara Beauty Pages.pdf      
 │   └── Vaeolara Beauty.pbix           
 │
-├── Vaeolara Beauty Project Explonation.pdf in-depth explanation
+├── Vaeolara Beauty Project Explanation.pdf in-depth explanation
 
 ```
 
@@ -114,14 +114,14 @@ The `.pbix` file contains a saved snapshot of the data, so it opens without a da
 
 ```bash
 pip install pandas jupyter
-jupyter notebook cleaning.ipynb
+jupyter notebook clean/cleaning.ipynb
 ```
 
 1. Run the notebook. It reads `raw/` and writes the cleaned tables to `clean/`.
 2. In PostgreSQL, create a database named `Cosmetics` and import the six files from `clean/` into the `public` schema as tables named `customers`, `campaigns`, `products`, `stores`, `orders` and `order_items`.
 3. Run `sql/dim-fact.sql` to build the `vaeolara` star schema.
 4. Run `sql/queries.sql` to reproduce the analysis.
-5. Open `powerbi/Vaeolara_Beauty.pbix` in Power BI Desktop.
+5. Open `report/Vaeolara Beauty.pbix` in Power BI Desktop.
 
 ## Author
 
